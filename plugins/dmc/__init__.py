@@ -21,7 +21,7 @@ from ChatHistory import ChatHistory, MyMessage
 from plugins.dmc.ChatMessage import GroupChatMessageHistory
 
 client = OpenAI(
-    api_key="sk-406893eee64c4990b721cb69d1c507df",
+    api_key="apikey",
     base_url="https://api.deepseek.com"
 )
 
